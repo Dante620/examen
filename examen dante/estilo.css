@@ -1,0 +1,120 @@
+@import
+url('https://fonts.cdnfonts.com/css/sst');
+html body{
+    margin: 0px;
+    font-family: 'SST', sansserif;
+    margin: auto;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    color: white;
+}
+lu {
+    display: flex;
+    list-style-type: none;
+    margin-left:10px ;
+}
+lu li{
+    margin-top: 30px;
+    margin-left: 30px ;
+    font-family: 'SST', sansserif; 
+}
+.ajustar1{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 120px;
+    height: 35px;
+}
+.ajustar2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 35px;
+}
+h1{
+    margin-top: 20px;
+    font-size: 12px;
+    font-family: 'SST', sansserif; 
+}
+.ajustar3{
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px; 
+}
+nav{
+    background-color: ededed;
+    height: 70px;
+    border: 0px;
+    margin: 0px;
+}
+nav ol {
+    margin-left: 80px;
+    display: flex;
+    list-style-type: none;
+}
+nav ol li{
+    color: gray;
+    font-family: 'SST', sansserif; 
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.seccionBanner {
+    background-image: url(bannerm.JPG);
+    height: 380px;
+}
+section{
+    padding-top:0px;
+    color: white;
+
+}
+button {
+    margin-left: 90px;
+    background-color:#5787f4;
+    border-color: gray;
+    color: white;
+    outline: none;
+    box-shadow: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-width: 1px;
+   
+}
+h2{
+   padding-top: 70px;
+   font-size: 10px;
+   padding-left: 90px;
+}
+h3{
+    font-size: 30px;
+    padding-left: 90px;
+ }
+ h4{
+    font-size: 20px;
+    padding-left: 90px;
+ }
+ div{
+    margin-left: 260px;
+    width: 60%;
+    background-color: #ededed;
+    text-align: center;
+ }
+ span{
+    color: orange;
+ }
+ .alola lo{
+    margin-left: 100px;
+    display: flex;
+    list-style-type: none;
+ }
+ .alola lo li{
+    margin-left: 10px;
+ }
+ nav ol li:hover {
+    color: black;
+}
+
